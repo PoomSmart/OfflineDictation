@@ -1,0 +1,9 @@
+Package: com.ps.offlinedictation
+Name: OfflineDictation
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 10.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Offline Dictation enabler.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
